@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sistema de Gerenciamento de Biblioteca</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <header>
+      <h1>Sistema de Gerenciamento de Biblioteca</h1>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#" onclick="loadPage('livros')">Lista de Livros</a></li>
+        <li><a href="#" onclick="loadPage('novoLivro')">Adicionar Livro</a></li>
+        <li><a href="#" onclick="loadPage('novoEmprestimo')">Registrar Empréstimo</a></li>
+        <li><a href="#" onclick="loadPage('livrosEmprestados')">Livros Emprestados</a></li>
+      </ul>
+    </nav>
+    <main id="content">
+    </main>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
