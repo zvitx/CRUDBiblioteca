@@ -33,17 +33,22 @@ git clone https://github.com/zvitx/CRUDBiblioteca.git
 
 ### 2. Configurar o Back
 - Navegue até o diretório backend:
+  
 cd backend
 - Instale as dependências:
+  
 npm install
 
 ### 3. Configurar o Banco de Dados
 - Certifique-se de ter o MySQL instalado e rodando.
 - Execute os scripts SQL para criar e popular o banco de dados:
+  
 mysql -u root -p < ../sql/create_tables.sql
+
 mysql -u root -p < ../sql/insert_data.sql
 
 ### 4. Inicie o Servidor
+
 node server.js
 
 
