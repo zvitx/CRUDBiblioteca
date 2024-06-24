@@ -29,8 +29,7 @@ Siga as instruções abaixo para clonar e configurar o projeto:
 ### 1. Clone o Repositório
 No cmd siga as seguintes instruções:
 
-git clone https://github.com/USERNAME/REPOSITORY_NAME.git
-cd GestaoBiblioteca
+git clone https://github.com/zvitx/CRUDBiblioteca.git
 
 ### 2. Configurar o Back
 - Navegue até o diretório backend:
