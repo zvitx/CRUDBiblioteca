@@ -1,4 +1,4 @@
-# Sistema de Gestão de Biblioteca
+# Sistema de Controle Bibliotecário
 
 ## Visão Geral
 
