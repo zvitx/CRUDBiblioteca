@@ -30,6 +30,7 @@ Siga as instruções abaixo para clonar e configurar o projeto:
 No cmd siga as seguintes instruções:
 
 git clone https://github.com/zvitx/CRUDBiblioteca.git
+
 cd CRUDBiblioteca
 ### 2. Configurar o Back
 - Navegue até o diretório backend:
