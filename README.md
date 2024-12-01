@@ -2,7 +2,7 @@
 
 ## Visão Geral
 
-Este projeto é uma aplicação de sistema de controle de uma biblioteca desenvolvida como um trabalho prático para a disciplina de Banco de Dados do curso de Sistemas de Informação. A aplicação permite o gerenciamento de livros, empréstimos e devoluções, fornecendo uma interface para cadastro, visualização, exclusão e relatórios sobre os livros.
+Este projeto é uma aplicação de sistema de controle de uma biblioteca desenvolvida como um trabalho prático para a disciplina de Banco de Dados do curso de Sistemas de Informação. A aplicação tem como objetivo solucionar um problema de uma biblioteca, criando uma aplicação simples para gerenciamento de livros. A aplicação permite realizar as operações de Cadastro, Leitura, Atualização e Exclusão de livros, facilitando a gestão das obras e seu controle.
 
 ## Estrutura do Projeto
 
