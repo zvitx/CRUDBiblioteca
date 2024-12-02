@@ -26,6 +26,8 @@ Essa função exibe todos os livros cadastrados na no sistema. A lista é aprese
 Cada livro na lista possui um botão de Deletar, que permite ao usuário remover o livro da base de dados. Ao clicar no botão de Deletar, o livro é excluído permanentemente do sistema, após uma confirmação da ação.
 
 ![image](https://github.com/user-attachments/assets/63c84af8-eab1-479c-8b87-2bbabf8dc07f)
+![image](https://github.com/user-attachments/assets/c03a8a84-9f88-4308-83d6-8ecbf3283b6d)
+
 
 ### 2. Adicionar um Livro
 A funcionalidade de Adicionar um Livro permite ao usuário cadastrar novos livros no sistema. Para adicionar um livro, o usuário deve preencher um formulário com as seguintes informações:
@@ -38,6 +40,7 @@ A funcionalidade de Adicionar um Livro permite ao usuário cadastrar novos livro
 Após preencher os dados, o usuário clica no botão de Cadastrar, e o livro é adicionado à base de dados.
 
 ![image](https://github.com/user-attachments/assets/e0780a12-a7f7-4def-a40b-e45e09a6d898)
+![image](https://github.com/user-attachments/assets/73b033c8-dbc7-4d90-9e1f-93754ebd9485)
 
 ### 3. Registrar Empréstimo
 Essa funcionalidade de Registrar Empréstimo permite que o usuário registre o empréstimo de um livro. Para registrar um empréstimo, é necessário fornecer as seguintes informações:
@@ -48,6 +51,8 @@ Essa funcionalidade de Registrar Empréstimo permite que o usuário registre o e
 Após preencher as informações, o sistema atualiza a tabela de empréstimos, marcando o livro como emprestado e atribuindo uma data de devolução prevista.
 
 ![image](https://github.com/user-attachments/assets/a921c032-fdbe-47c4-bdd4-b2918cc8abf2)
+![image](https://github.com/user-attachments/assets/7f221cbe-5164-42ba-bec3-4e60ff247775)
+
 
 ### 4. Livros Emprestados
 Por fim, a funcionalidade de Livros Emprestados exibe uma lista de todos os livros que estão atualmente emprestados, ou seja, que têm uma data de devolução prevista. A lista contém as seguintes informações:
@@ -59,6 +64,7 @@ Por fim, a funcionalidade de Livros Emprestados exibe uma lista de todos os livr
 Ela permite que o usuário acompanhe facilmente quais livros estão emprestados, evitando o empréstimo de livros que já estão fora da biblioteca.
 
 ![image](https://github.com/user-attachments/assets/3934a933-0903-4ee2-ae68-9a88186967fd)
+![image](https://github.com/user-attachments/assets/772ed494-6d20-4319-829f-ad0eac01674e)
 
 ## Como Clonar e Usar
 Siga as instruções abaixo para clonar e configurar o projeto:
