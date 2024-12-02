@@ -23,7 +23,7 @@ Essa função exibe todos os livros cadastrados na no sistema. A lista é aprese
 - ID: Identificador único do livro.
 - Título: Nome do livro.
 - Autor: Nome do autor do livro.
-#
+<br>
 Cada livro na lista possui um botão de Deletar, que permite ao usuário remover o livro da base de dados. Ao clicar no botão de Deletar, o livro é excluído permanentemente do sistema, após uma confirmação da ação.
 
 ![image](https://github.com/user-attachments/assets/63c84af8-eab1-479c-8b87-2bbabf8dc07f)
