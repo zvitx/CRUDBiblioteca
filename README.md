@@ -22,8 +22,7 @@ Essa função exibe todos os livros cadastrados na no sistema. A lista é aprese
 
 - ID: Identificador único do livro.
 - Título: Nome do livro.
-- Autor: Nome do autor do livro.
-<br>
+- Autor: Nome do autor do livro.<br>
 Cada livro na lista possui um botão de Deletar, que permite ao usuário remover o livro da base de dados. Ao clicar no botão de Deletar, o livro é excluído permanentemente do sistema, após uma confirmação da ação.
 
 ![image](https://github.com/user-attachments/assets/63c84af8-eab1-479c-8b87-2bbabf8dc07f)
@@ -35,7 +34,7 @@ A funcionalidade de Adicionar um Livro permite ao usuário cadastrar novos livro
 - Autor: O autor do livro.
 - Ano de Publicação: O ano em que o livro foi publicado.
 - Gênero: O gênero literário do livro (exemplo: ficção, fantasia, suspense, etc.).
-- Status: O status do livro (disponível ou emprestado).
+- Status: O status do livro (disponível ou emprestado).<br>
 Após preencher os dados, o usuário clica no botão de Cadastrar, e o livro é adicionado à base de dados.
 
 ![image](https://github.com/user-attachments/assets/e0780a12-a7f7-4def-a40b-e45e09a6d898)
@@ -45,7 +44,7 @@ Essa funcionalidade de Registrar Empréstimo permite que o usuário registre o e
 
 - ID do Livro: O identificador único do livro a ser emprestado.
 - Data de Empréstimo: A data em que o livro foi emprestado.
-- Data de Devolução Prevista: A data estimada para a devolução do livro.
+- Data de Devolução Prevista: A data estimada para a devolução do livro.<br>
 Após preencher as informações, o sistema atualiza a tabela de empréstimos, marcando o livro como emprestado e atribuindo uma data de devolução prevista.
 
 ![image](https://github.com/user-attachments/assets/a921c032-fdbe-47c4-bdd4-b2918cc8abf2)
@@ -56,7 +55,7 @@ Por fim, a funcionalidade de Livros Emprestados exibe uma lista de todos os livr
 - Título: Nome do livro.
 - Autor: Nome do autor.
 - Data de Empréstimo: A data em que o livro foi emprestado.
-- Data Prevista de Devolução: A data em que o livro deve ser devolvido.
+- Data Prevista de Devolução: A data em que o livro deve ser devolvido.<br>
 Ela permite que o usuário acompanhe facilmente quais livros estão emprestados, evitando o empréstimo de livros que já estão fora da biblioteca.
 
 ![image](https://github.com/user-attachments/assets/3934a933-0903-4ee2-ae68-9a88186967fd)
