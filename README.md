@@ -52,7 +52,7 @@ Após preencher as informações, o sistema atualiza a tabela de empréstimos, m
 ### 4. Livros Emprestados
 Por fim, a funcionalidade de Livros Emprestados exibe uma lista de todos os livros que estão atualmente emprestados, ou seja, que têm uma data de devolução prevista. A lista contém as seguintes informações:
 
-Título: Nome do livro.
+- Título: Nome do livro.
 - Autor: Nome do autor.
 - Data de Empréstimo: A data em que o livro foi emprestado.
 - Data Prevista de Devolução: A data em que o livro deve ser devolvido.
