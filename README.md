@@ -17,9 +17,15 @@ Este projeto é uma aplicação de sistema de controle de uma biblioteca desenvo
 - MySQL
 
 ## Funcionalidades
-Gerenciamento de Livros: Adicionar, editar, excluir e listar livros.
-Empréstimos: Registrar empréstimos, listar livros emprestados, dar baixa nos empréstimos.
-Relatórios: Gerar relatórios de livros emprestados
+### 1.Lista de Livros
+Essa função exibe todos os livros cadastrados na no sistema. A lista é apresentada de forma clara e objetiva, contendo as seguintes informações para cada livro:
+
+ID: Identificador único do livro.
+Título: Nome do livro.
+Autor: Nome do autor do livro.
+Cada livro na lista possui um botão de Deletar, que permite ao usuário remover o livro da base de dados. Ao clicar no botão de Deletar, o livro é excluído permanentemente do sistema, após uma confirmação da ação.
+
+![image](https://github.com/user-attachments/assets/63c84af8-eab1-479c-8b87-2bbabf8dc07f)
 
 
 
